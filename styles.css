@@ -16,4 +16,12 @@ footer
   font-size: small;
   color: black;
 }
+button
+{
+  font-size: large;
+  color: maroon;
+  width: 20%;
+  height: 10%;
+  text-align:center
 
+}
