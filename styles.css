@@ -25,6 +25,14 @@ button
   text-align: center;
 
 }
+button:hover{
+  background-color:yellow;
+}
 div{
   text-align: center;
+}
+table, tr, th, td{
+  text-align: center;
+  border: 1px solid black;
+  border-collapse: collapse;
 }
