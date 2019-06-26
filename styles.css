@@ -22,6 +22,9 @@ button
   color: maroon;
   width: 20%;
   height: 10%;
-  text-align:center
+  text-align: center;
 
+}
+div{
+  text-align: center;
 }
